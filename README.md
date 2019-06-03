@@ -3,10 +3,14 @@ This project contains lecture notes for an introduction to pulse-amplitude modul
 The lecture notes are based on Python/Jupyter
 
 ## Usage
-1. Clone repository `git clone git@github.com:drmarkusg/lecture_pulse_amplitude_modulation.git`
-2. Install dependencies: `pip install requirements.txt`
-3. Start Jupyter lab
-4. Open main notebook `Main.ipynb`
+1. Clone repository:
+```git clone git@github.com:drmarkusg/lecture_pulse_amplitude_modulation.git```
+2. Install dependencies:
+```pip install requirements.txt```
+3. Start Jupyter lab:
+```jupyter lab```
+4. Open main notebook:
+```Main.ipynb```
 
 ## Prerequisites
 1. Installation of Python >= 3.6 required, see [https://www.python.org/]
